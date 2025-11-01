@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Misaki 明咲 (みさき)
+
 <!--
 **Misaki-moe/Misaki-moe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
